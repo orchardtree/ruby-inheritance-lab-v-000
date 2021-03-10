@@ -12,4 +12,6 @@ class User
   def knowledge 
     @knowledge
   end
+  
+  def teach
 end
