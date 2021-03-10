@@ -5,5 +5,6 @@ class User
     @knowledge = []
   end
   
-  learn()
+  def learn(knowledge)
+  end
 end
