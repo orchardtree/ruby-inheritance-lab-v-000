@@ -4,6 +4,6 @@ class Teacher < User
 
     
   def teach
-    KNOWLEDGE
+    KNOWLEDGE[0]
   end
 end
